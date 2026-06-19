@@ -36,7 +36,15 @@ Update Sheet
 Email Notification
 
 
+## Sample Output
+
+Lead Score: 92
+
+Category: Hot
+
+Reason:
+High revenue company with a clear automation need and strong buying intent.
+
 
 ## Author
-
-Shad
+Shad khan
